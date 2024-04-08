@@ -1,1 +1,1 @@
-# Valheim Mods - Mods for Valheim
+# Sane Inventory - Mod for Valheim
